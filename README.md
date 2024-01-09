@@ -1,1 +1,1 @@
-this is my first project which i created with HTML and CSS. You can browse can checkout my work
+this is my first project & it's my portfolio website. Which i created with HTML and CSS (going to add Javascript soon). You can browse the code & clone this repo for checking out what i have made. hope you like it ;)
